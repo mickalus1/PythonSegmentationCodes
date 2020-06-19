@@ -1,2 +1,3 @@
 # PythonSegmentationCodes
-Conversion from MATLAB to Python of global and selective segmentation codes
+Python code for additive operator splitting scheme for a global and selective segmentation model.
+
